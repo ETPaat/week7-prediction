@@ -11,7 +11,7 @@ const options = [
     'You will get a new car today.',
     'You will be going on a trip to Austrailia with your best friend',
     'You will fulfill your lifelong dream.',
-    '',
+    'You will get your dream job',
     'Your crush will be mad at you, or give you a kiss. I am just a program; I have no idea of what will happen in the future.',
 ];
 
